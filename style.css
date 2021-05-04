@@ -1,0 +1,7 @@
+  @font-face {
+    font-family: 'gulim';
+    src: url('/gulim.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+    .title {font-family: gulim; color: red;}
